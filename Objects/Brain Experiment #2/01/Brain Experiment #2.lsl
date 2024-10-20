@@ -9,10 +9,30 @@ string botcust2;
 string parseResponse(string text)
 {
     integer i = llSubStringIndex(text, "value=\"");
+    if(i == -1)
+    {
+        emote("doesn't appear to be responding");
+        stopListening();
+        return "";
+    }
+        
     text = llGetSubString(text, i + 7, -1);
     i = llSubStringIndex(text, "\"");
+    if(i == -1)
+    {
+        emote("appears to be confused.");
+        stopListening();
+        return "";
+    }
+    
     botcust2 = llGetSubString(text, 0, i-1);
     i = llSubStringIndex(text, ">");
+    if(i == -1)
+    {
+        emote("is in a state of disarray.");
+        stopListening();
+        return "";
+    }
     text = llGetSubString(text, i + 1, -1);
     return text;
 }
@@ -121,7 +141,11 @@ default
     {
         if(request_id != requestId) return;
         if(callerName != "")
-            llSay(PUBLIC_CHANNEL, parseResponse(body));
+        {
+            string body = parseResponse(body);
+            if(body != "")
+                llSay(PUBLIC_CHANNEL, body);
+        }
     } 
     touch_start(integer total_number)
     {
