@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2 - 2008-08-03
+
+### Added
+
+- Handle unexpected responses from pandorabots
+
 ## 1.1 - 2007-12-03
 
 ### Added
