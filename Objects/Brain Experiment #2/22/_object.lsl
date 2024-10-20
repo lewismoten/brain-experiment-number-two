@@ -81,7 +81,7 @@ llSetPrimitiveParams([
 
 // Face 3
 llSetPrimitiveParams([
-  PRIM_COLOR, 3, <0.501961, 0, 0>, 1,
+  PRIM_COLOR, 3, <1, 0, 0>, 1,
   PRIM_TEXTURE, 3, TEXTURE_BLANK, <1, 1, 0>, ZERO_VECTOR, 0,
   PRIM_FULLBRIGHT, 3, 0,
   PRIM_RENDER_MATERIAL, 3, NULL_KEY,
