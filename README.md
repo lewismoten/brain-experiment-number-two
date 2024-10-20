@@ -10,12 +10,12 @@ You can touch different parts of the display to get different responses from the
 
 ## Background
 
-I was originally inspired to build a brain after watching a parody video, "Look Around You: The Brain". Unfortunately, I can not find the original video. Google Video Beta was archived after acquiring YouTube. Here is the original link:
+I was originally inspired to build this after watching a parody video, "Look Around You: The Brain", Season 1, Episode 8. A scientist holds up a jar of nuts to a brain in a jar. The brain calls the scientist to tell them how many nuts are in the jar, and is rewarded with brain flakes for getting the correct answer.
+
+Google Video Beta was archived after acquiring YouTube. Here is the original (broken) link:
 
 http://video.google.com/videoplay?docid=-2333189681837727477
 
-The Internet Archive's Way Back Machine found the web page from 2006. The video was called, "Look Around You The Brain" posted by Peter Packard. Upon further digging, this is Season 1, Episode 8. I've found a few smaller clips of it, but nothing with Brain Experiment #2.
+I've since found the video posted elsewhere.
 
-- [Intro: Electronic Brain Enhancement](https://www.youtube.com/watch?v=ZJY4sR5guUM)
-- [Experiment #1](https://www.youtube.com/watch?v=dzvz1j3h4Xk)
-- [Pea Brain](https://www.youtube.com/watch?v=aE1IfHvEnXc)
+[Dailymotion: Look Around You - 109 - The Brain](https://www.dailymotion.com/video/x8kswvs)
