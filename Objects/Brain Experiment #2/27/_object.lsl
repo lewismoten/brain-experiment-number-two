@@ -1,6 +1,6 @@
 // Link Number: 27
 llSetPrimitiveParams([
-  PRIM_NAME, "Object",
+  PRIM_NAME, "Brain",
   PRIM_DESC, "",
   PRIM_TYPE, PRIM_TYPE_SPHERE, PRIM_HOLE_DEFAULT, <0, 1, 0>, 0, ZERO_VECTOR, <0, 1, 0>,
   PRIM_SLICE, <0, 1, 0>,

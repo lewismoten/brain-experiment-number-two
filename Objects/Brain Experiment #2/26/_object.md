@@ -3,7 +3,7 @@
 | Setting | Value |
 | --- | --- |
 | Link Number | 26 |
-| Name | Object |
+| Name | Brain Flakes |
 | Description |  |
 | Creator | dedric.mauriac |
 

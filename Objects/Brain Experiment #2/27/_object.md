@@ -3,7 +3,7 @@
 | Setting | Value |
 | --- | --- |
 | Link Number | 27 |
-| Name | Object |
+| Name | Brain |
 | Description |  |
 | Creator | dedric.mauriac |
 

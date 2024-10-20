@@ -3,7 +3,7 @@
 | Setting | Value |
 | --- | --- |
 | Link Number | 28 |
-| Name | Object |
+| Name | Liquid |
 | Description |  |
 | Creator | dedric.mauriac |
 
