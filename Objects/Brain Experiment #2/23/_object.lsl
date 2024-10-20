@@ -1,8 +1,3 @@
-
-
-
-[09:53] Object: 
-
 // Link Number: 23
 llSetPrimitiveParams([
   PRIM_NAME, "Phone",
@@ -31,8 +26,7 @@ llSetPrimitiveParams([
 ]);
 
 // Face 0
-
-[09:53] Object: llSetPrimitiveParams([
+llSetPrimitiveParams([
   PRIM_COLOR, 0, <1, 0, 0>, 1,
   PRIM_TEXTURE, 0, TEXTURE_BLANK, <1, 1, 0>, ZERO_VECTOR, 0,
   PRIM_FULLBRIGHT, 0, 0,
@@ -57,8 +51,7 @@ llSetPrimitiveParams([
   PRIM_RENDER_MATERIAL, 1, NULL_KEY,
   PRIM_TEXGEN, 1, 0,
   PRIM_GLOW, 1, 0,
-  PRIM_NORMAL, 1, NULL_KEY, <1, 1, 0>, ZERO_VECTOR, 0
-[09:53] Object: ,
+  PRIM_NORMAL, 1, NULL_KEY, <1, 1, 0>, ZERO_VECTOR, 0,
   PRIM_SPECULAR, 1, NULL_KEY, <1, 1, 0>, ZERO_VECTOR, 0, <1, 1, 1>, 51, 0,
   PRIM_ALPHA_MODE, 1, 1, 0,
   PRIM_GLTF_BASE_COLOR, 1, "", <1, 1, 0>, ZERO_VECTOR, 0, "", "", "", "", "",
@@ -81,8 +74,7 @@ llSetPrimitiveParams([
   PRIM_ALPHA_MODE, 2, 1, 0,
   PRIM_GLTF_BASE_COLOR, 2, "", <1, 1, 0>, ZERO_VECTOR, 0, "", "", "", "", "",
   PRIM_GLTF_NORMAL, 2, "", <1, 1, 0>, ZERO_VECTOR, 0,
-  PRIM_GLTF_METALLIC_ROUGHNESS, 2, "", <1, 1, 0>, ZERO_VECTOR, 0, "", ""
-[09:53] Object: ,
+  PRIM_GLTF_METALLIC_ROUGHNESS, 2, "", <1, 1, 0>, ZERO_VECTOR, 0, "", "",
   PRIM_GLTF_EMISSIVE, 2, "", <1, 1, 0>, ZERO_VECTOR, 0, "",
   PRIM_BUMP_SHINY, 2, 1, 0
 ]);
