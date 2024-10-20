@@ -3,7 +3,7 @@
 | Setting | Value |
 | --- | --- |
 | Link Number | 2 |
-| Name | Object |
+| Name | Nuts |
 | Description |  |
 | Creator | dedric.mauriac |
 

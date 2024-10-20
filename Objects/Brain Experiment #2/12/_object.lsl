@@ -1,6 +1,6 @@
 // Link Number: 12
 llSetPrimitiveParams([
-  PRIM_NAME, "Object",
+  PRIM_NAME, "Black Wire",
   PRIM_DESC, "",
   PRIM_TYPE, PRIM_TYPE_TORUS, PRIM_HOLE_DEFAULT, <0.2, 0.8, 0>, 0.949, ZERO_VECTOR, <1, 0.25, 0>, ZERO_VECTOR, <0.68, 0.7, 0>, ZERO_VECTOR, 1, 0, 0,
   PRIM_SLICE, <0.68, 0.7, 0>,

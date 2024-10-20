@@ -3,7 +3,7 @@
 | Setting | Value |
 | --- | --- |
 | Link Number | 10 |
-| Name | Object |
+| Name | Red Wire |
 | Description |  |
 | Creator | dedric.mauriac |
 

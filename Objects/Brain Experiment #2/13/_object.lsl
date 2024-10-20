@@ -1,6 +1,6 @@
 // Link Number: 13
 llSetPrimitiveParams([
-  PRIM_NAME, "Object",
+  PRIM_NAME, "Battery -",
   PRIM_DESC, "",
   PRIM_TYPE, PRIM_TYPE_CYLINDER, PRIM_HOLE_DEFAULT, <0, 1, 0>, 0.699, ZERO_VECTOR, <1, 1, 0>, ZERO_VECTOR,
   PRIM_SLICE, <0, 1, 0>,

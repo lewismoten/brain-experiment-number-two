@@ -1,7 +1,7 @@
 
 // Link Number: 8
 llSetPrimitiveParams([
-  PRIM_NAME, "Object",
+  PRIM_NAME, "Black Clamp",
   PRIM_DESC, "",
   PRIM_TYPE, PRIM_TYPE_BOX, PRIM_HOLE_DEFAULT, <0, 1, 0>, 0, ZERO_VECTOR, <1, 1, 0>, ZERO_VECTOR,
   PRIM_SLICE, <0, 1, 0>,

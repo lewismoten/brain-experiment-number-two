@@ -3,7 +3,7 @@
 | Setting | Value |
 | --- | --- |
 | Link Number | 20 |
-| Name | Object |
+| Name | Black Clamp |
 | Description |  |
 | Creator | dedric.mauriac |
 

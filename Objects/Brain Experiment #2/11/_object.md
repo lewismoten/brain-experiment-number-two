@@ -3,7 +3,7 @@
 | Setting | Value |
 | --- | --- |
 | Link Number | 11 |
-| Name | Object |
+| Name | White Wire |
 | Description |  |
 | Creator | dedric.mauriac |
 

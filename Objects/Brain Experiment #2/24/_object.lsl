@@ -1,6 +1,6 @@
 // Link Number: 24
 llSetPrimitiveParams([
-  PRIM_NAME, "Object",
+  PRIM_NAME, "Phone",
   PRIM_DESC, "",
   PRIM_TYPE, PRIM_TYPE_SPHERE, PRIM_HOLE_DEFAULT, <0.35, 0.6, 0>, 0.75, ZERO_VECTOR, <0.398, 0.6, 0>,
   PRIM_SLICE, <0.398, 0.6, 0>,

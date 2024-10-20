@@ -3,7 +3,7 @@
 | Setting | Value |
 | --- | --- |
 | Link Number | 13 |
-| Name | Object |
+| Name | Battery - |
 | Description |  |
 | Creator | dedric.mauriac |
 

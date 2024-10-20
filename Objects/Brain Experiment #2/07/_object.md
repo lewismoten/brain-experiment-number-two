@@ -3,7 +3,7 @@
 | Setting | Value |
 | --- | --- |
 | Link Number | 7 |
-| Name | Object |
+| Name | Phone |
 | Description |  |
 | Creator | dedric.mauriac |
 

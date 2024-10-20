@@ -1,6 +1,6 @@
 // Link Number: 4
 llSetPrimitiveParams([
-  PRIM_NAME, "Object",
+  PRIM_NAME, "Jar of Nuts",
   PRIM_DESC, "",
   PRIM_TYPE, PRIM_TYPE_SPHERE, PRIM_HOLE_DEFAULT, <0, 1, 0>, 0.949, ZERO_VECTOR, <0.199, 0.5, 0>,
   PRIM_SLICE, <0.199, 0.5, 0>,

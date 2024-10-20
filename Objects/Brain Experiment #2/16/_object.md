@@ -3,7 +3,7 @@
 | Setting | Value |
 | --- | --- |
 | Link Number | 16 |
-| Name | Object |
+| Name | Red Clamp |
 | Description |  |
 | Creator | dedric.mauriac |
 

@@ -3,7 +3,7 @@
 | Setting | Value |
 | --- | --- |
 | Link Number | 12 |
-| Name | Object |
+| Name | Black Wire |
 | Description |  |
 | Creator | dedric.mauriac |
 

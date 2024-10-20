@@ -3,7 +3,7 @@
 | Setting | Value |
 | --- | --- |
 | Link Number | 3 |
-| Name | Object |
+| Name | Jar of Nuts |
 | Description |  |
 | Creator | dedric.mauriac |
 
