@@ -4,7 +4,7 @@
 | --- | --- |
 | Link Number | 1 |
 | Name | Brain Experiment #2 1.1 |
-| Description | http://video.google.com/videoplay?docid=-2333189681837727477 |
+| Description | |
 | Creator | dedric.mauriac |
 
 # Permssions

@@ -1,7 +1,7 @@
 // Link Number: 1
 llSetPrimitiveParams([
   PRIM_NAME, "Brain Experiment #2 1.1",
-  PRIM_DESC, "http://video.google.com/videoplay?docid=-2333189681837727477",
+  PRIM_DESC, "",
   PRIM_TYPE, PRIM_TYPE_CYLINDER, PRIM_HOLE_DEFAULT, <0, 1, 0>, 0.949, ZERO_VECTOR, <1, 1, 0>, ZERO_VECTOR,
   PRIM_SLICE, <0, 1, 0>,
   PRIM_PHYSICS_SHAPE_TYPE, PRIM_PHYSICS_SHAPE_PRIM,
