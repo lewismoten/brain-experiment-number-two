@@ -1,3 +1,5 @@
+![brain-experiment-number-two: Brain in a jar of liquid with a retro phone](docs/images/social-preview.png)
+
 # Brain Experiment #2
 
 Feed and talk to a brain. 
