@@ -1,4 +1,4 @@
-![brain-experiment-number-two: Brain in a jar of liquid with a retro phone](docs/images/social-preview.png)
+![brain-experiment-number-two: Brain in a jar of liquid with a retro phone](docs/images/social-preview.png?)
 
 # Brain Experiment #2
 
